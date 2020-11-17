@@ -1,3 +1,1 @@
 Hi I'm a text file.
-
-I enjoy displaying text characters to you.
